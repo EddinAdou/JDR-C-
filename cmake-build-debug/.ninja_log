@@ -1,0 +1,8 @@
+# ninja log v5
+1	949	1711449303997346635	CMakeFiles/untitled.dir/main.cpp.o	343f87a26a53e220
+2550	3108	1711449264564488986	CMakeFiles/untitled.dir/Logger.cpp.o	106d6f47bb2e1273
+3108	4110	1711449265568510747	CMakeFiles/untitled.dir/Dé.cpp.o	f26b8cc8b6faacf9
+4976	5996	1711449267452551591	CMakeFiles/untitled.dir/GameMaster.cpp.o	90508a110dc4039a
+1817	2550	1711449264008476937	CMakeFiles/untitled.dir/Pièce.cpp.o	5adbdc02121cbabb
+950	1141	1711449304189350826	untitled	9592ebd9dc696f68
+4110	4976	1711449266428529390	CMakeFiles/untitled.dir/DeckDeCartes.cpp.o	fc94120e1e700f0c
